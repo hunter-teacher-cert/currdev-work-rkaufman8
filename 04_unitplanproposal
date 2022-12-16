@@ -1,1 +1,12 @@
 
+Introduction to Programming in Java (AP CSA)
+by Rachel Kaufman
+
+General Overview
+This unit will cover an introduction to programming in Java for students with minimal or no prior experience with text-based programming. The unit will cover basic syntax, grammar, and punctuation rules, types of variables and how to declare, initialize, assign value, and work with variables, as well as user interaction via output/input to the monitor. The unit will culminate in an AP style multiple-choice quiz and a final project in which students create a tip calculator.
+
+Motivation for Unit
+Many students at Tech will take block-based programming in 10th grade (some subset take CSP in Python). For these students, this unit will be their first introduction to syntactical, grammatical, and punctuation/bracketing requirements, so the unit is first and foremost meant to be a comprehensive guide to these aspects of text-based programming.
+
+Additionally, a fundamental skill in any programming language is fluency in use of different types of variable and variable casting (Snap's "variable type" rules are much more lax than those of Java). Immediately steering away from hard-coding values will help create more flexible programmers.
+
